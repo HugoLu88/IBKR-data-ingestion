@@ -1,6 +1,8 @@
 # IBKR-data-ingestion
 Dynamic data ingestion for the IBKR platform
 
+This repo currently only contains one notebook.
+
 This notebook requires the following inputs
 
 1) Specify data to download from IBKR
