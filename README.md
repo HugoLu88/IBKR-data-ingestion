@@ -17,3 +17,11 @@ It will then do the following things
 Note:
 
 1) this will break if you try to overwrite data from say t0 to t1 with data from before t0. You can only append later data as this is supposed to be a rolling file where the dataset increases over time in a forward looking manner
+
+Framework
+1. [Data ingestion]
+2. Data cleaning
+3. Strategy creation
+4. Strategy testing
+5. Implementation
+6. Implementation testing
